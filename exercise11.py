@@ -1,3 +1,4 @@
+#--------------------------------------------------------------------------------------------------------------
 # Let's do our own Bitmaker version of FizzBuzz, which is the name of a classic job interview coding problem.
 #
 # Write a program that loops over the numbers from 1 to 100.
@@ -18,7 +19,3 @@ def bit_buzz():
     return
 
 bit_buzz()
-
-
-
-#--------------------------------------------------------------------------------------------------------------
